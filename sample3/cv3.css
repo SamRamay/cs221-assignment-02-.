@@ -1,0 +1,48 @@
+.container{
+    margin:8%;
+    
+}
+H1,h2,h3{
+    text-align: center;
+}
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+    margin-right: 20%;
+}
+hr{
+    height: 2px;
+    background-color: blue;
+
+}
+span{
+    margin-left: 37%;
+    margin-top: 10px;
+}
+#icon{
+    font-size: 50px;
+}
+b{
+    margin-left: 36%;
+}
+.mrgn{
+    margin-top: 15px;
+}
+p{
+    text-align: center;
+}
+.shrt{
+    width: 25px;
+}
+.skls{
+    margin-left: 44%;
+}
+.lng{
+    width:550px;
+}
+.bold{
+    font-size: 20px;
+}
